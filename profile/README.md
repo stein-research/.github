@@ -18,3 +18,6 @@ model that writes. Each repository holds the paper's code, data, results and IBM
 papers can be checked again.
 
 Teerawat Tongloy (KMITL), Jiraporn Pongsopa and Rangsan Jomtarak (Suan Dusit University). MIT licence.
+
+**Contact:** Teerawat Tongloy, School of Integrated Innovative Technology, KMITL, Bangkok —
+[teerawat.to@kmitl.ac.th](mailto:teerawat.to@kmitl.ac.th)
