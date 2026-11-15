@@ -5,7 +5,11 @@ Born rule, and the evidence of every input — each pixel, each word — has a c
 the answer's probability rises above its share, and it can be measured on the hardware itself. Each paper runs its
 model on simulated light and measures it, or part of it, on IBM quantum processors.
 
-![Seeing Why, Reading Why and Writing Why](trio.png)
+<p align="center">
+<a href="https://github.com/stein-research/seeing-why"><img src="seeing.png" width="32%" alt="Seeing Why: open the repository"></a>
+<a href="https://github.com/stein-research/reading-why"><img src="reading.png" width="32%" alt="Reading Why: open the repository"></a>
+<a href="https://github.com/stein-research/writing-why"><img src="writing.png" width="32%" alt="Writing Why: open the repository"></a>
+</p>
 
 | | what the model does | paper | try it (no install) |
 |---|---|---|---|
