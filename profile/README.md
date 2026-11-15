@@ -1,5 +1,7 @@
 ## Born-rule models whose evidence is exact by construction
 
+*A century after Born (1926), his rule does not only tell us what we will measure: it tells us why a model decided.*
+
 Three papers, one idea: read the measurement of a quantum circuit or an optical system with a readout shaped by the
 Born rule, and the evidence of every input — each pixel, each word — has a closed form that adds up exactly to how far
 the answer's probability rises above its share, and it can be measured on the hardware itself. Each paper runs its
